@@ -14,7 +14,7 @@ public:
 	}
 
 };
-
+// comment
 HiEngine::Application* HiEngine::CreateApplication()
 {
 	return new Farmary();
